@@ -1,11 +1,11 @@
-# Book: Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow
+# Book: Artificial Intelligence A Mordern Approach - Fourth Edition
 
-Code Practice from the Kaggle and the Book Hands-On Machine Learning
+Code Practice from the Book AI Modern Approach (AIMA)
 
 
 <img src="./utils/book-cover.jpg" alt="Book Cover">
 
-## Progress: 20% (4/19)
+## Progress: 0% (0/28)
 
 <details>
 <summary>Chapter 1: Complete</summary>
