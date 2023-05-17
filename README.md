@@ -12,8 +12,9 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
 
 - [ ] Algorithms
     - [ ] C++
-    - [ ] Python / Mojo
+    - [ ] Python / Mojo 
     - [ ] Lisp 
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -25,7 +26,9 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
 - [ ] Algorithms
     - [ ] C++
     - [ ] Python / Mojo
-    - [ ] Lisp- [ ] Notes
+    - [ ] Lisp
+    - [ ] Prolog
+- [ ] Notes
 - [ ] Exercices
 
 </details>
@@ -36,7 +39,9 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
 - [ ] Algorithms
     - [ ] C++
     - [ ] Python / Mojo
-    - [ ] Lisp- [ ] Notes
+    - [ ] Lisp
+    - [ ] Prolog    
+- [ ] Notes
 - [ ] Exercices
 
 </details>
@@ -48,6 +53,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -61,6 +67,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -73,6 +80,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -85,6 +93,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -96,7 +105,8 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
 - [ ] Algorithms
     - [ ] C++
     - [ ] Python / Mojo
-    - [ ] Lisp    
+    - [ ] Lisp 
+    - [ ] Prolog   
 - [ ] Notes
 - [ ] Exercices
 
@@ -110,6 +120,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -123,6 +134,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -135,6 +147,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -147,6 +160,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -159,6 +173,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -171,6 +186,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -183,6 +199,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -195,6 +212,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -207,6 +225,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -219,6 +238,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -231,6 +251,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -242,6 +263,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -253,6 +275,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -265,6 +288,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -277,6 +301,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -289,6 +314,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -301,6 +327,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -313,6 +340,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -325,6 +353,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
@@ -337,6 +366,7 @@ Code Practice from the Book AI Modern Approach ([AIMA](http://aima.cs.berkeley.e
     - [ ] C++
     - [ ] Python / Mojo
     - [ ] Lisp
+    - [ ] Prolog
 - [ ] Notes
 - [ ] Exercices
 
